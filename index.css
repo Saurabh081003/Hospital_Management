@@ -1,0 +1,171 @@
+
+nav{
+    width: 1680px;
+    height: 100px;
+    position: absolute;
+    display:flex;
+    padding-top: 70px;   
+    background-color: #5A7D7C;
+}   
+
+.upload_documents{
+    margin-top: 23px;
+    height: 25px;
+    padding-left: 10px;
+    margin-left: 110px;
+    width:175px;   
+}
+.upload{
+    display:flex;
+    width:160px;
+}
+.upload_name{
+    padding-left: 15px;
+    color:black;
+    text-decoration:none;
+}
+.first_button{
+    background-color: #8DA7BE;
+    box-shadow: 3px 4px 10px black ;
+    border-color: #8DA7BE;
+    height:30px;
+    width:170px;
+}
+.search_bar{
+    margin-left: 100px;
+    margin-top: 23px;
+}
+.search{
+    display: flex;   
+}
+.search_icon{
+    height: 25px;
+    width: 20px;
+    margin-top: 1px;    
+}
+#searching{
+    height: 30px;
+    width: 250px;
+    border-color: white;
+}
+.fa-search{
+    padding-top: 5.2px;
+}
+.click_icon{
+    background-color: #8DA7BE;
+    border-color:#8DA7BE ;
+}
+.appoinment{
+    width: 130px;
+    background-color: #8DA7BE;
+    height: 31px;
+    box-shadow: 3px 4px 10px black ;
+    border-color: #8DA7BE;
+}
+.make_appoinment{
+    margin-left: 110px;
+    padding-top:21px ;    
+}
+.services{
+    width: 100px;
+    background-color: #8DA7BE;
+    height: 31px;
+    box-shadow: 3px 4px 10px black ;
+    border-color: #8DA7BE;
+}
+.services_provided{
+    margin-left: 380px;
+    padding-top:21px ;    
+}
+.layout{
+    height: 800px;
+    width: 1680px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    position: absolute;
+    margin-top: 170px;
+    background-image: url("hospital_main.jpg");
+    
+}
+.side_bar{
+    height: 600px;
+    width:220px;
+    position: fixed;
+    background-color: #F7EBE8;
+    opacity: 0.8;
+    box-shadow: 6px 6px 8px black;
+    margin-top: 170px;
+       
+}
+.upper_side_bar{
+    height: 170px;
+    width:220px;
+    position: fixed;
+    opacity: 0.9;
+    background-color: #F7EBE8;
+    border-top-right-radius: 20%;
+    box-shadow: 6px 0px 20px black; 
+    background-size: cover;
+}   
+img{
+    height: 170px;
+    width: 220px;
+    border-top-right-radius: 22%;
+}
+.options{
+    padding-top: 50px;
+}
+p{
+    text-align: center;
+    font-size: 1.4rem;
+    font-family: 'Courier New', Courier, monospace;
+ 
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+p:hover{
+    border: steelblue;
+    border-style:solid;
+    width: 160px;
+    margin-left: 31.5px;
+}
+.includes{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
+h1{
+    margin-left: 300px;
+    margin-top: 250px;
+    color: black;
+    height: 50px;
+    width: 620px;
+}
+h3{
+    margin-left: 300px;
+    margin-top: 40px;
+    color: black;
+    height: 50px;
+    width: 620px;
+}
+.login{
+    background-color:steelblue;
+    height: 30px;
+    width: 100px;
+    margin-left: 300px;
+    margin-top: 80px;
+    border-color: steelblue;
+    font-size:medium;
+}
+.signin{
+    background-color: steelblue;
+    height: 30px;
+    width: 100px;
+    margin-left: 40px;
+    border-color: steelblue;
+    font-size: medium;
+}

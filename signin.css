@@ -1,0 +1,48 @@
+body{
+    background-color:#242F40 ;
+   
+}
+.signin{
+    height: 600px;
+    width: 500px;
+    background-color:#363636 ;
+    border-radius: 10%;
+    margin-left: 620px;
+    margin-top: 100px;
+}
+.username{
+    margin-left: 100px;
+    width: 300px;
+    height: 30px;
+    margin-top: 100px;
+    background-color:#B0B5B3;
+}
+.password{
+    margin-left: 100px;
+    width: 300px;
+    height: 30px;
+    margin-top: 50px;
+    background-color:#B0B5B3;
+}
+.birthdate{
+    margin-left: 100px;
+    width: 130px;
+    height: 30px;
+    margin-top: 50px;
+    background-color:#B0B5B3;
+}
+.gen_date{
+    display: flex;
+}
+.gender{
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.sign{
+    margin-left: 225px;
+    margin-top: 100px;
+    width: 80px;
+    height: 30px;
+    background-color: #B0B5B3;
+    border-color: #B0B5B3;
+}
